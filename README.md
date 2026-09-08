@@ -8,3 +8,10 @@ sudo apt update
 sudo apt install -y nodejs
 ```
 
+```sh
+node --version
+
+```sh
+npm install -g npm@11.19.0
+```
+
