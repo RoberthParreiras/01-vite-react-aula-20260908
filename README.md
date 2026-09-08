@@ -10,9 +10,11 @@ sudo apt install -y nodejs
 
 ```sh
 node --version
+```
 
 ```sh
 npm install -g npm@11.19.0
+```
 
 ```sh
 npm create vite@latest
